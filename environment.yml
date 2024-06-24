@@ -7,3 +7,4 @@ dependencies:
   - ipycanvas
   - numpy
   - matplotlib
+  - jupyterlite-pyodide-kernel
