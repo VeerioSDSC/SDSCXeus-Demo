@@ -6,3 +6,7 @@ dependencies:
   - xeus-python
   - ipycanvas
   - numpy
+  - matplotlib
+  - astropy
+  - pyodide-kernel
+  - healpy
