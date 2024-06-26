@@ -8,4 +8,4 @@ dependencies:
   - numpy
   - matplotlib
   - astropy
-  - jupyter-lab-open-url-parameter
+  - jupyterlab-open-url-parameter
